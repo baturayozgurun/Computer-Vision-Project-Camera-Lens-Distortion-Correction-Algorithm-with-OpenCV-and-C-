@@ -95,7 +95,7 @@ Now the OpenCV project is ready to run.
 
 If you use this project in your research, please cite it as follows:
 
-B. Ozgurun, Computer Vision Project -- Camera Lens Distortion Correction Algorithm with OpenCV and C++, (2022), GitHub repository, https://github.com/baturayozgurun/Computer-Vision-Project-Camera-Lens-Distortion-Correction-Algorithm-with-OpenCV
+B. Ozgurun, Computer Vision Project -- Camera Lens Distortion Correction Algorithm with OpenCV, (2022), GitHub repository, https://github.com/baturayozgurun/Computer-Vision-Project-Camera-Lens-Distortion-Correction-Algorithm-with-OpenCV
 
 ---
 
