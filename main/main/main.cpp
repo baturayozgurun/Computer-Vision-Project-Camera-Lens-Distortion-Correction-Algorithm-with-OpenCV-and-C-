@@ -2,7 +2,7 @@
 //  Copyright © 2018 Baturay Özgürün
 //  If you have any requests or questions please do not hesitate to contact me via baturay.ozgurun@gmail.com
 
-//  Project Name: Computer Vision -- Camera Lens Distortion Correction Algorithm with OpenCV and C++
+//  Project Name: Computer Vision -- Camera Lens Distortion Correction Algorithm with OpenCV
 //  Project Desciption: This project aims to correct distorted images and obtain intrinsic and extrinsic parameters by capitalizing on a chessboard pattern and OpenCV functions such as findChessboardCorners, cornerSubPix, calibrateCamera, and undistort.
 
 //Include Headers
