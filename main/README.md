@@ -1,4 +1,4 @@
-# Computer Vision Project -- Camera Lens Distortion Correction Algorithm with OpenCV and C++
+# Computer Vision Project -- Camera Lens Distortion Correction Algorithm with OpenCV
 [![Software: C++](https://img.shields.io/badge/Software-C%2B%2B-blue)](http://www.cplusplus.org/)  [![Library: OpenCV](https://img.shields.io/badge/Library-OpenCV-green)](https://www.opencv.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey)](https://mit-license.org/) 
 
 Developer: Baturay Özgürün
